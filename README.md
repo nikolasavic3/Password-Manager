@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Password Manager is a robust tool designed for secure storage and management of passwords. It employs advanced cryptographic techniques to ensure the confidentiality and integrity of sensitive data.
+This Password Manager is a tool designed for secure storage and management of passwords. It employs advanced cryptographic techniques to ensure the confidentiality and integrity of sensitive data.
 
 ## Security Features
 
